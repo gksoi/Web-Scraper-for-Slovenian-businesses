@@ -1,0 +1,7 @@
+bizi_state.json
+*.csv
+*.xlsx
+.DS_Store
+.venv/
+__pycache__/
+
